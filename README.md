@@ -31,6 +31,8 @@ Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses out
 * **Serveur central** : Serveur sur lequel se trouve le dépôt central.
 * **VCS** (*Version Control System*) : Outil utilisé pour la gestion de version.
 
+* **Quentin** : Le meilleur au TP de GIT.
+
 ## Référence
 
 * [Site officiel de Git](https://git-scm.com)
